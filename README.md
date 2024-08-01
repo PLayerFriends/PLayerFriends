@@ -9,7 +9,7 @@
    Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
    
    Você pode entrar em contato comigo: 📫
-    quaresma.gabriel@escola.pr.gov.br;
+    quaresma.gabriel@escola.pr.gov.br.
      
      @alurastartestudante.
 
